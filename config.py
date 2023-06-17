@@ -1,0 +1,6 @@
+TOKEN = '6226891622:AAHcM1z3rwnPwTkedIwZTfX3vSr47RxpwKs'
+HOST_DB = 'localhost'
+NAME_DB = 'volsu_blender'
+USER_DB = 'root'
+PASS_DB = 'root'
+PORT_DB = '8889'
